@@ -15,7 +15,7 @@
         <div Class="text-h3">Lista</div>
         <div class="text-subtitle1">{{ todaysDate }}</div>
       </div>
-      <q-img src="src/assets/montanha2.png" class="header-image absolute-top" />
+      <q-img src="assets/montanha2.png" class="header-image absolute-top" />
     </q-header>
 
     <q-drawer
@@ -52,7 +52,7 @@
 
       <q-img
         class="absolute-top"
-        src="src/assets/montanha2.png"
+        src="assets/montanha2.png"
         style="height: 192px"
       >
         <div class="absolute-bottom bg-transparent">
